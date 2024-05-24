@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -  This is my Portafolie : https://alexvillada.neocities.org/
 
+HTML5 Java JavaScript Python R PHP CSS3 Markdown Azure Netlify Anaconda Bootstrap Django DjangoREST Flask jQuery SASS TailwindCSS MongoDB MySQL Postgres Canva Figma Keras NumPy Pandas Plotly PyTorch scikit-learn SciPy TensorFlow
