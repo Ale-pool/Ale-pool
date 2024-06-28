@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://alexvillada.neocities.org/](https://alexvillada.neocities.org/)
 
-- 💬 Ask me about **react, vue, js**
+- 💬 Ask me about **react, Css, js, Html**
 
 - 📫 How to reach me **avilladaberrio@gmail.com**
 
