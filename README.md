@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://alexvillada.neocities.org/](https://alexvillada.neocities.org/)
 
-- 💬 Ask me about **react, Css, js, Html**
+- 💬 Ask me about **react, Css, js, Html** https://insidious-cup-795.notion.site/JAVASCRIPT-c9849542d8df45f7a2c01d2e20066a99 
 
 - 📫 How to reach me **avilladaberrio@gmail.com**
 
