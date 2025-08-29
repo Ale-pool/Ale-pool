@@ -2,17 +2,15 @@
 
 
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate data analyst from Colombia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ale-pool" alt="ale-pool" /></a> </p>
 
 - 🔭 I’m currently working on **as software developer**
 
-- 🌱 I’m currently learning **python, IA, React, Nodejs, Angular**
+- 🌱 I’m currently learning **python, IA, git,  React, Nodejs**
 
 - 👯 I’m looking to collaborate on **on developers**
-
-- 🤝 I’m looking for help with **learn python**
 
 - 👨‍💻 All of my projects are available at [https://alexvillada.neocities.org/](https://alexvillada.neocities.org/)
 
